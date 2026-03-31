@@ -1,0 +1,5 @@
+print("Name: Kevin Bozarth")
+print("Pronouns: He/him")
+print("My favorite movie... I don't have a favorite movie. I'm not much of a TV watcher.")
+print("I like sushi. I also like raw onions with chicken.")
+print("Bye.")
